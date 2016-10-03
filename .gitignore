@@ -1,0 +1,15 @@
+# sqlite 
+*.sq3
+
+# Intellij IDEA
+.idea
+*.iml
+
+# Compiled bytecode
+*.py[co]
+
+# OSX stuff
+.DS_Store
+
+# Vim stuff
+*.sw[op]
